@@ -1,0 +1,8 @@
+.saludo {
+  font-size: 15px;
+  border: 5px solid green;
+  width: 150px;
+  height: 60px;
+  background-color: blue;
+  color: yellow;
+}

@@ -1,0 +1,29 @@
+.containerNav {
+  background-color: hotpink;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/*!Logo de la pagina*/
+.logoImagen {
+  display: flex;
+  width: 130px;
+  height: 130px;
+}
+.listaDelNav {
+  list-style-type: none;
+  vertical-align: top;
+  display: inline;
+  font-size: 1.2em;
+  padding: 0.5em;
+}
+.liDelNav {
+  float: left;
+  text-align: center;
+  width: 150px;
+}
+.liDelNav:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}

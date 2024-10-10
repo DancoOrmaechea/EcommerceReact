@@ -1,0 +1,10 @@
+.Carrito {
+  width: 30px;
+  height: 30px;
+}
+.Carrito:hover {
+  cursor: pointer;
+}
+.CarritoDiv {
+  padding-right: 50px;
+}
